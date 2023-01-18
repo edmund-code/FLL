@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "FLL-RePLAY",
+			"path": "."
+		}
+	],
+	"settings": {
+		"debug.openDebug": "neverOpen",
+		"python.languageServer": "None"
+	}
+}
